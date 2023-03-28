@@ -1,0 +1,3 @@
+from datetime import datetime
+#saytime = time.ctime()
+DateandTime = datetime.now()
